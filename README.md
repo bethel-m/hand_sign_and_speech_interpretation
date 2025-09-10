@@ -7,7 +7,7 @@ This project aims to interprete hand signs by deaf people to Local Nigerian lang
 
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 
-Looking in our society today... there a lot of people with special needs or select disabilities, and one of the most common one is the inability to speak, and some times the person who has this disability turns to alternate option for communication usually hand signs. But a lot of times people who speak do not understand hand signs because the are used to speaking most at times. So briding 
+Looking in our society today... there a lot of people with special needs or select disabilities, and one of the most common one is the inability to speak, and some times the person who has this disability turns to alternate option for communication usually hand signs. But a lot of times people who speak do not understand hand signs because the are used to speaking most at times. So in order for these two categories to communicate there needs to be a solution to bridge this gap. 
 
 
 ## How is it used?
