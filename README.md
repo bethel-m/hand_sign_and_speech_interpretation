@@ -16,7 +16,7 @@ The solution will be a mobile application used both by the person communicating 
 ## Data sources and AI methods
 Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
 The data for this project will come from external sources, and already existing data set on handsigns and natural language, such as data from Kaggle eg :
-[hand signs kaggle]([https://developer.twitter.com/en/docs](https://www.kaggle.com/datasets/jeyasrisenthil/hand-signs-asl-hand-sign-data))
+[hand signs kaggle](https://www.kaggle.com/datasets/jeyasrisenthil/hand-signs-asl-hand-sign-data)
 
 
 ## Challenges
