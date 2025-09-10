@@ -5,64 +5,26 @@ This project aims to interprete hand signs by deaf people to Local Nigerian lang
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-
-Looking in our society today... there a lot of people with special needs or select disabilities, and one of the most common one is the inability to speak, and some times the person who has this disability turns to alternate option for communication usually hand signs. But a lot of times people who speak do not understand hand signs because the are used to speaking most at times. So in order for these two categories to communicate there needs to be a solution to bridge this gap. 
+Looking in our society today... there a lot of people with special needs or select disabilities, and one of the most common one is the inability to speak, and some times the person who has this disability turns to alternate option for communication usually hand signs. But a lot of times people who speak do not understand hand signs because the are used to speaking most at times. So in order for these two categories to communicate there needs to be a solution to bridge this gap. This is important in order to foster and improve communication between people who communicate with hand signs and people who speak.. eg parents and their kids. 
 
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
-
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
-
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
-
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
+The solution will be a mobile application used both by the person communicating using hand signs and the person speaking. So, In a situation for communication the person making hand signs can video/sound record the person speaking and after the person is done speaking , the app interpretes what the person has said into hand signs they can understand.... on the other hand also the person who speaks video records the person performing hand signs and afterwards the app interpretes this hand signs to speech or text that the person speaking can understand.
 
 
 ## Data sources and AI methods
 Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
+The data for this project will come from external sources, and already existing data set on handsigns and natural language, such as data from Kaggle eg :
+[hand signs kaggle]([https://developer.twitter.com/en/docs](https://www.kaggle.com/datasets/jeyasrisenthil/hand-signs-asl-hand-sign-data))
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
 
 ## Challenges
 
 What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+the major limitation for this is that real time interpretation will be very difficult since the interpretation to and from hand signs to text has to be real time considering the speed,intonation, accents etc of how a person is communicating.
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+For this project to take of, it will need engineers well vast in machine learning and AI, most specifically in computer vision and NLP
 
-
-## Acknowledgments
-
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
