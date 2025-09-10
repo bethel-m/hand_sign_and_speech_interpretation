@@ -1,24 +1,13 @@
-<!-- This is the markdown template for the final project of the Building AI course, 
-created by Reaktor Innovations and University of Helsinki. 
-Copy the template, paste it to your GitHub README and edit! -->
-
-# Project Title
-
-Final project for the Building AI course
+# Hand sign and Speech Interpretation
 
 ## Summary
-
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
-
+This project aims to interprete hand signs by deaf people to Local Nigerian languages, and vice versa from speech to hand signs.
 
 ## Background
 
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+Looking in our society today... there a lot of people with special needs or select disabilities, and one of the most common one is the inability to speak, and some times the person who has this disability turns to alternate option for communication usually hand signs. But a lot of times people who speak do not understand hand signs because the are used to speaking most at times. So briding 
 
 
 ## How is it used?
